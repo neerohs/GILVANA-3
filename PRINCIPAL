@@ -182,6 +182,12 @@ http://grtsvk.life:8080/iara00001/00001iara/71227
 
 ---DOCUMENTARIOS---
 
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="DOCUMENTARIOS",NAT GEO HD
+http://grtsvk.life:8080/iara00001/00001iara/71364
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://grtsvk.life:8080/iara00001/00001iara/71366
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="DOCUMENTARIOS",NAT GEO WILD SD
+http://grtsvk.life:8080/iara00001/00001iara/71231
 #EXTINF:-1 tvg-id="Animal Planet FHD H.265" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
 http://grtsvk.life:8080/iara00001/00001iara/71058
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
